@@ -67,4 +67,6 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     debugImplementation("androidx.navigation:navigation-compose:2.7.5")
+    debugImplementation("com.github.hamooo90:jalali-datepicker-compose:1.0.0")
+    debugImplementation("ir.huri:JalaliCalendar:1.3.3")
 }
